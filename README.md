@@ -6,12 +6,10 @@ The next change
 
 
 
-<<<<<<< HEAD
 ### Branch TWO
 
-this is content from branch two
-=======
+this is content from branch two, addition change after merge
+
 ### Branch ONE
 
 this is content from branch one
->>>>>>> main
